@@ -1,16 +1,17 @@
-<h1>Readme.md
+
+**Readme**
 
 This document will allow you to run these assessment related tests locally. 
 
-<h2> Steps to run tests
+**Steps to run tests**
 
- 1. Import the project into eclipse.
- 2. Make sure you have TestNG plugin.
+1. Import the project into eclipse.
+2. Make sure you have TestNG plugin.
 3. Right click testng.xml and click Run as TestNG suite.
 4. Tests should run without any exceptions.
 
 
-<h2>Troubleshooting:
+**Troubleshooting:**
 
 If the tests are throwing an exception when invoking firefox driver like the one below:
 
