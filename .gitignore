@@ -1,0 +1,8 @@
+.classpath
+/*.class
+Results
+test-output
+*.class
+.project
+bin
+.settings

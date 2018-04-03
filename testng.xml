@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNGSuite">
+
+  <test name="TestNgTest">
+    <classes>
+    <class name = "com.selenium.tests.TestAgentForm" />
+    <class name = "com.selenium.tests.TestDisplayPage" />
+    </classes>
+  </test>
+</suite>
