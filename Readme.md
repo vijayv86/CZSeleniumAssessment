@@ -1,9 +1,8 @@
+# Readme
 
-**Readme**
+This document will allow you to run CZ assessment related tests locally. 
 
-This document will allow you to run these assessment related tests locally. 
-
-**Steps to run tests**
+## Steps to run tests
 
 1. Import the project into eclipse.
 2. Make sure you have TestNG plugin.
@@ -11,7 +10,7 @@ This document will allow you to run these assessment related tests locally.
 4. Tests should run without any exceptions.
 
 
-**Troubleshooting:**
+## Troubleshooting:
 
 If the tests are throwing an exception when invoking firefox driver like the one below:
 
