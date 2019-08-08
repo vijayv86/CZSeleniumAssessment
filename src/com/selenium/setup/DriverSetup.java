@@ -13,7 +13,7 @@ public class DriverSetup {
 	public WebDriver getDriver() {
 		ExcelUtils.setExcelFile();
 		//If launching FireFox is trouble, uncomment the next line.
-		//System.setProperty("webdriver.gecko.driver", ".\\lib\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "lib/geckodriver");
 		driver = new FirefoxDriver();
 		driver.navigate().to(DriverSetup.baseUrl);
 		return driver;
