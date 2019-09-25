@@ -10,7 +10,7 @@ This document will allow you to run CZ assessment related tests locally.
 4. Tests should run without any exceptions.
 
 
-## Troubleshooting:
+## Troubleshooting (if you have further issues):
 
 If the tests are throwing an exception when invoking firefox driver like the one below:
 
